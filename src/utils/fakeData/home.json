@@ -167,6 +167,7 @@
     "categoryCommodity": [
       {
         "category": "居家好物",
+        "categoryId": "1000001",
         "commodities": [
           {
             "title": "日式和风懒人沙发",
@@ -229,6 +230,7 @@
       },
       {
         "category": "餐厨好物",
+        "categoryId": "1000002",
         "commodities": [
           {
             "title": "100年传世珐琅锅",

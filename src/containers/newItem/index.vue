@@ -64,8 +64,10 @@
 <style lang="scss" scoped>
   @import '../../styles/mixin.scss';
   .newItem-page {
+    height: 100%;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
   }
 
   .newItem-container {

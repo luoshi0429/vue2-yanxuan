@@ -5,7 +5,7 @@
         <router-link class="logo" to="/home">网易严选</router-link>
         <search-btn v-bind:handleClick="handleSearch" />
       </div>
-      <segment v-bind:titles="titles" v-bind:handleClick="handleChange" />
+      <segment v-bind:titles="titles" v-bind:handleClick="handleChange" v-bind:currentTitle="current" />
     </header>
     <router-view></router-view>
   </div>
@@ -27,14 +27,19 @@
     data () {
       return {
         titles: ['推荐', '居家', '餐厨', '配件', '服装', '洗护', '婴童', '杂货', '饮食', '志趣'],
-        categoryId: ['', '1000001', '1000002'],
+        categoryId: ['', '1000001', '1000002', '1000003', '1000004', '1000005', '1000006', '1000007', '1000008', '1000009'],
         imgs: ['http://yanxuan.nosdn.127.net/2a1259567d45f6d56cd377b9f6e8f4fd.jpg', 'http://yanxuan.nosdn.127.net/615e5f7727d1d2831e24a3453eeac4ca.jpg', 'http://yanxuan.nosdn.127.net/0ad986128e62d4f16a385de809f23dca.jpg', 'http://yanxuan.nosdn.127.net/8869a3d10800efca5670432bc0070707.jpg', 'http://yanxuan.nosdn.127.net/dda365946a8d8b09adebbd74e9cfb830.jpg'],
         data: {}
       }
     },
+    computed : {
+      current () {
+        const index = this.categoryId.indexOf(this.$route.params.cId)
+        return this.titles[index]
+      }
+    },
     methods: {
       handleSearch () {
-        console.log('handle search...')
         this.$router.push('/search')
       },
       handleChange (title) {
@@ -45,14 +50,6 @@
           this.$router.push(`/home/other/${this.categoryId[this.titles.indexOf(title)]}`)
         }
       }
-    },
-    // 在该方法中进行网络请求等操作
-    mounted () {
-      // fetchHome()
-      //   .then(r => {
-      //     console.log(r)
-      //     this.data = r
-      //   })
     }
   }
 </script>

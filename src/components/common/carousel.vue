@@ -13,7 +13,6 @@
 
 <script>
   export default {
-    // props: ['items', { name: 'cStyle', default: {} }, { name: 'hideIndicator', default: false, type: Boolean }],
     props: {
       pics: Array,
       hideIndicator: {
@@ -44,16 +43,7 @@
       }
     },
     created () {
-      // this.timeId = setInterval(() => {
-      //   this.rightAnimate()
-      // }, this.animationDuration)
-      function startAnim () {
-        this.timeId = setTimeout(() => {
-          this.rightAnimate()
-          startAnim.call(this)
-        }, this.animationDuration)
-      }
-      startAnim.call(this)
+      this.initAnimate()
     },
     mounted () {
       this.$watch('currentIndex', () => {
@@ -71,20 +61,13 @@
         const width = this.$el.clientWidth
         // 大于是左
         if (this.dragDelta > width / 3) {
-          this.leftAnimate()
+          this.leftAnimate(this.dragDelta)
         } else if (this.dragDelta < (-width / 3)) {
-          this.rightAnimate()
+          this.rightAnimate(-this.dragDelta)
         } else {
           this.backAnimate()
         }
-        // this.timeId = setInterval(this.rightAnimate, this.animationDuration)
-        function startAnim () {
-          this.timeId = setTimeout(() => {
-            this.rightAnimate()
-            startAnim.call(this)
-          }, this.animationDuration)
-        }
-        startAnim.call(this)
+        this.initAnimate()
       },
       handleStart (e) {
         clearTimeout(this.timeId)
@@ -102,11 +85,22 @@
           this.dragDelta = width
           return 
         }
-        this.$refs.swiper.style = `transition-duration: 0ms; transform: translate(${delta - width}px, 0px) translateZ(0px);`
+        this.$refs.swiper && (this.$refs.swiper.style = `transition-duration: 0ms; transform: translate(${delta - width}px, 0px) translateZ(0px);`)
       },
-      leftAnimate () {
-        const duration = 600
-        this.$refs.swiper.style = `transition-duration: 600ms; transform: translate(0px, 0px) translateZ(0px);`
+      initAnimate () {
+        var startAnim = () => {
+          this.timeId = setTimeout(() => {
+            const width = this.$el.clientWidth
+            this.rightAnimate(width)
+            startAnim.call(this)
+          }, this.animationDuration)
+        }
+        startAnim()
+      },
+      leftAnimate (delta) {
+        const width = this.$el.clientWidth
+        const duration = (delta / width) * 300
+        this.$refs.swiper && (this.$refs.swiper.style = `transition-duration: 600ms; transform: translate(0px, 0px) translateZ(0px);`)
         setTimeout(() => {
           this.backToCenter()
           // 这里的复制顺序要注意。 preIndex要在currentIndex之后
@@ -115,11 +109,11 @@
           this.preIndex = this.preIndex === 0 ? this.pics.length - 1 : this.preIndex - 1          
         }, duration)
       },
-      rightAnimate () {
+      rightAnimate (delta) {
         const width = this.$el.clientWidth
-        const duration = 600
-        this.$refs.swiper.style = `transition-duration: ${duration}ms; transform: translate(${-width * 2}px, 0px) translateZ(0px);`
-        setTimeout(() => {
+        const duration = (delta / width) * 300
+        this.$refs.swiper && (this.$refs.swiper.style = `transition-duration: ${duration}ms; transform: translate(${-width * 2}px, 0px) translateZ(0px);`)
+        this.timeId = setTimeout(() => {
           this.backToCenter()
           this.preIndex = this.currentIndex
           this.currentIndex = this.nextIndex
@@ -128,11 +122,11 @@
       },
       backToCenter () {
         const width = this.$el.clientWidth
-        this.$refs.swiper.style = `transition-duration: 0; transform: translate(${-width}px, 0px) translateZ(0px);`
+        this.$refs.swiper && (this.$refs.swiper.style = `transition-duration: 0; transform: translate(${-width}px, 0px) translateZ(0px);`)
       },
       backAnimate () {
         const width = this.$el.clientWidth
-        this.$refs.swiper.style = `transition-duration: 600ms; transform: translate(${-width}px, 0px) translateZ(0px);`
+        this.$refs.swiper && (this.$refs.swiper.style = `transition-duration: 600ms; transform: translate(${-width}px, 0px) translateZ(0px);`)
       }
     }
   }

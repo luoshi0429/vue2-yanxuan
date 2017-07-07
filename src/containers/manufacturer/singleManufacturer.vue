@@ -77,7 +77,7 @@
               "pic": "http://yanxuan.nosdn.127.net/c70ef66f7c2251a47f0a2cdf8ebd83b7.png?imageView&quality=85&thumbnail=330x330",
               "specification": "3色可选",
               "activity": [{ "type": 1, "tag": "限时购" }],
-              "pId": "p1000003"
+              "pId": "p1000001"
             },
             {
               "title": "Walking Juice破壁料理机套装",
@@ -100,7 +100,7 @@
               "price": "75",
               "pic": "http://yanxuan.nosdn.127.net/a2cf3b86ecfd35b2d270cd17ff264cbd.png?imageView&quality=85&thumbnail=330x330",
               "activity": [{ "type": 0, "tag": "爆品"}],
-              "pId": "p1000003"
+              "pId": "p1000001"
             },
             {
               "title": "两带式男/女款拖鞋",

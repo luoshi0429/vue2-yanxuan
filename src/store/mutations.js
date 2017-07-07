@@ -81,6 +81,7 @@ export default {
     if (!selected) {
       state.removeCartList = []
     } else {
+      console.log('cart list: ', state.cartList)
       state.removeCartList = Object.assign([], state.cartList)
     }
     // 全选 => 全不选。 一个或一个以上选择 => 全选
@@ -92,14 +93,16 @@ export default {
     // }
   },
   [TYPES.REMOVECARTCOMMODITY] (state, commodities) {
-    let cartCommodities = state.cartList
-    let removeCartList = state.removeCartList
-    commodities.forEach((c) => {
+    let cartCommodities = Object.assign([], state.cartList)
+    let removeCartList = Object.assign([], state.removeCartList)
+    commodities.forEach((c, i) => {
       const index = cartCommodities.indexOf(c)
       cartCommodities.splice(index, 1)
       const removeIndex = removeCartList.indexOf(c)
       removeCartList.splice(removeIndex, 1)
     })
+    state.cartList = cartCommodities
+    state.removeCartList = removeCartList
     savCartCommodityrToLocalStorage(cartCommodities)
   },
   [TYPES.PUSTCARTFORMAT] (state, commodity) {

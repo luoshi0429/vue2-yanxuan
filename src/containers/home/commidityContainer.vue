@@ -4,7 +4,7 @@
     <div class="com-content">
       <commodity v-for="c in categoryCommodity.commodities" v-bind:commodity="c" v-bind:key="c.pId" v-on:click.native="handleClick(c.pId)"/>
       <div class="more-container">
-        <div class="more">
+        <div class="more" v-on:click="handleMore">
           <p>更多{{ categoryCommodity.category }}</p>
           <i />
         </div>
@@ -23,6 +23,9 @@
     methods: {
       handleClick (cId) {
         this.$router.push(`/productDetail/${cId}`)
+      },
+      handleMore () {
+          this.$router.push(`/home/other/${this.categoryCommodity.categoryId}`)
       }
     }
   }

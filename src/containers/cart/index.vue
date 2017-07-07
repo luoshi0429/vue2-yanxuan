@@ -66,7 +66,12 @@
     computed: {
       ...mapState({
         cartCommodities: 'cartList',
-        removeCartList: 'removeCartList',
+        // removeCartList: 'removeCartList',
+        removeCartList: state => {
+          console.log('========')
+          console.log(state.removeCartList)
+          return state.removeCartList
+        },
         isEdit: 'cartIsEdit',
         totalPrice: state => {
           const total = state.cartList.filter(c => c.selected).reduce((total, commodity, index) => {
@@ -121,6 +126,8 @@
         this.getRemoveCartCommodity(commodity)
       },
       handleAction () {
+        console.log('delete')
+        console.log(this.removeCartList)
         if (!this.isEdit) {
           // order
           console.log('下单')

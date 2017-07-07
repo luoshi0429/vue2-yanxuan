@@ -1,7 +1,7 @@
 <template>
   <div class="segment" ref="segment">
     <div class="segment-inner" ref="itemContainer" v-bind:style="dragStyle" v-on:touchmove="onTouchMove" v-on:touchstart="onTouchStart" v-on:touchend="onTouchEnd">
-      <div v-bind:class="['segment-item', select === title ? 'current-item' : '']" v-for="title in titles" v-on:click="handleItemClick(title)">
+      <div v-bind:class="['segment-item', (currentTitle || select) === title ? 'current-item' : '']" v-for="title in titles" v-on:click="handleItemClick(title)">
         <span>{{ title }}</span>
       </div>
     </div>
@@ -13,6 +13,7 @@
     name: 'segment',
     props: {
       titles: Array,
+      currentTitle: String,
       handleClick: {
         type: Function,
         default: () => {}
