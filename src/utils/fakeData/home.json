@@ -1,0 +1,1166 @@
+{
+  "home": {
+    "manufacturer": [
+      {
+        "title": "MUJI制造商",
+        "lowestPrice": "12.9",
+        "hasNew": true,
+        "pic": "http://yanxuan.nosdn.127.net/d0e63a70d3e000fc753f9cb3c6c53c4d.jpg",
+        "mId": "100001"
+      },
+      {
+        "title": "Coach制造商",
+        "lowestPrice": "49",
+        "hasNew": false,
+        "pic": "http://yanxuan.nosdn.127.net/b5cd73d3b310bad02539412f064d4ea1.jpg",
+        "mId": "100002"
+      },
+      {
+        "title": "新秀丽制造商",
+        "lowestPrice": "59",
+        "hasNew": true,
+        "pic": "http://yanxuan.nosdn.127.net/68a34b29027cf44957ac9f282cf6fda7.jpg",
+        "mId": "100002"
+      },
+      {
+        "title": "Police制造商",
+        "lowestPrice": "109",
+        "hasNew": false,
+        "pic": "http://yanxuan.nosdn.127.net/16391758bf3cc32b81d8ca7a9417d4a0.jpg",
+        "mId": "100002"
+      }
+    ],
+    "newItems": [
+      {
+        "title": "男式全棉珠地经典polo衫",
+        "description": "古典优雅，休闲也精致",
+        "price": "79",
+        "pic": "http://yanxuan.nosdn.127.net/8bbac1295b237f2204171321e1c1c446.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "pId": "p1000001"
+      },
+      {
+        "title": "网易智造N520除螨吸尘器",
+        "description": "除螨吸尘 深层清洁",
+        "price": "499",
+        "pic": "http://yanxuan.nosdn.127.net/a81f768e5a310d03211bb19ebf6089dc.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "618人气款"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "黑凤梨 盱眙小龙虾 7-9钱/只",
+        "description": "头小身大，饱满肥嫩",
+        "price": "98",
+        "pic": "http://yanxuan.nosdn.127.net/667fedf6e76843c199f47e1dc6fdf077.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "黑凤梨",
+        "pId": "p1000001"
+      },
+      {
+        "title": "光面羊皮蛋卷鞋",
+        "description": "头层羊皮，优雅芭蕾舞鞋",
+        "price": "199",
+        "pic": "http://yanxuan.nosdn.127.net/7f2c07000e78240afca6c531bf4d828f.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "activity": [{ "type": 0, "tag": "618人气款"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "网易智造X3蓝牙HiFi耳机",
+        "description": "HiFi 蓝牙无线 镀钛耳膜",
+        "price": "199",
+        "pic": "http://yanxuan.nosdn.127.net/7ea875e46ea109238445cdc0f6126bd8.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "男式棉麻合体直筒牛仔短裤",
+        "description": "合身剪裁的棉麻雅痞范",
+        "price": "169",
+        "pic": "http://yanxuan.nosdn.127.net/28fc360e623e981f96e9114b3cf04baa.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "空气净化器",
+        "description": "PM2.5指数实时显示",
+        "price": "999",
+        "pic": "http://yanxuan.nosdn.127.net/534aa5bfc31d690c0cebf31f9710e5af.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "activity": [{ "type": 0, "tag": "618人气款" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "男式水柔棉圆领短袖T恤",
+        "description": "水柔棉质地，清爽亲肤",
+        "price": "89",
+        "pic": "http://yanxuan.nosdn.127.net/7dbfe657e1c7640d17fbd812dbd2e7e2.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "pId": "p1000001"
+      }
+    ],
+    "hotItems": [
+      {
+        "title": "奢华植鞣头层水牛皮席三件套",
+        "description": "三峡水牛头层皮，高端夏凉必备",
+        "price": "2499",
+        "pic": "http://yanxuan.nosdn.127.net/56e72b84a9bb66687c003ecdaba73816.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "4色可选",
+        "activity": [{ "type": 0, "tag": "618人气款"}, { "type": 1, "tag": "满赠" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "黑凤梨 20寸PC膜拉链登机箱",
+        "description": "热卖9万只，网易人手1只",
+        "price": "228",
+        "pic": "http://yanxuan.nosdn.127.net/3108aaae80416b1cf27c3d7cc5661cea.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "黑凤梨",
+        "pId": "p1000001"
+      },
+      {
+        "title": "日式蝴蝶结通勤女鞋",
+        "description": "细腻羊反绒，清甜制造",
+        "price": "169",
+        "pic": "http://yanxuan.nosdn.127.net/c70ef66f7c2251a47f0a2cdf8ebd83b7.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "3色可选",
+        "activity": [{ "type": 1, "tag": "限时购" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "Walking Juice破壁料理机套装",
+        "description": "会榨汁的杯子，15秒带走",
+        "price": "239",
+        "pic": "http://yanxuan.nosdn.127.net/569539637653da2c635212847f322e7a.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "日式和风声波式电动牙刷",
+        "description": "进口刷毛，专利技术",
+        "price": "129",
+        "pic": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "小龙虾 4-6钱/只 净虾850克",
+        "description": "好水好虾，鲜香弹润",
+        "price": "75",
+        "pic": "http://yanxuan.nosdn.127.net/a2cf3b86ecfd35b2d270cd17ff264cbd.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "两带式男/女款拖鞋",
+        "description": "鞋杯随脚型而变，舒适呵护",
+        "price": "69.9",
+        "pic": "http://yanxuan.nosdn.127.net/7d1c130c7d80edf824e4218c6829b7c8.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "2色可选",
+        "activity": [{ "type": 0, "tag": "爆品" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "暗格简约钢笔",
+        "description": "铱金暗尖，300超长书写",
+        "price": "39",
+        "pic": "http://yanxuan.nosdn.127.net/97ad483a94ed88216a989df83e39cbf0.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "4色可选",
+        "pId": "p1000001"
+      }
+    ],
+    "categoryCommodity": [
+      {
+        "category": "居家好物",
+        "commodities": [
+          {
+            "title": "日式和风懒人沙发",
+            "description": "优质莱卡纯棉，和风家居新体验",
+            "price": "599",
+            "pic": "http://yanxuan.nosdn.127.net/149dfa87a7324e184c5526ead81de9ad.png?imageView&quality=85&thumbnail=330x330",
+            "specification": "4色可选",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "双宫茧桑蚕丝被 空调被",
+            "description": "一级桑蚕丝，吸湿透气柔软",
+            "price": "446",
+            "pic": "http://yanxuan.nosdn.127.net/583812520c68ca7995b6fac4c67ae2c7.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}, { "type": 1, "tag": "特价" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "AB面独立弹簧床垫 进口乳胶",
+            "description": "双面可用，抗菌防螨",
+            "price": "2599",
+            "pic": "http://yanxuan.nosdn.127.net/6ad1813d123f7a80f84c2cfa5f8c7caf.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "奢华植鞣头层水牛皮席三件套",
+            "description": "三峡水牛头层皮，高端夏凉必备",
+            "price": "2499",
+            "pic": "http://yanxuan.nosdn.127.net/56e72b84a9bb66687c003ecdaba73816.png?imageView&quality=85&thumbnail=330x330",
+            "specification": "4色可选",
+            "activity": [{ "type": 0, "tag": "618人气款"}, { "type": 1, "tag": "满赠" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "日式和风蔺草蒲团坐垫",
+            "description": "龙眉蔺草编织 日式茶禅风",
+            "price": "86",
+            "pic": "http://yanxuan.nosdn.127.net/39dea35a3ea2361e4b054ee2f421af53.png?imageView&quality=85&thumbnail=330x330",
+            "pId": "p1000001"
+          },
+          {
+            "title": "全棉针织条纹四件套 新款",
+            "description": "裸睡享受，柔软透气有弹性",
+            "price": "219",
+            "pic": "http://yanxuan.nosdn.127.net/376086180e5c3c7641669036217e7f95.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "多功能人体工学转椅",
+            "description": "冈村椅制造商携手打造",
+            "price": "1399",
+            "pic": "http://yanxuan.nosdn.127.net/f1dbf1d9967c478ee6def81ed40734a2.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品" }],
+            "pId": "p1000001"
+          }
+        ]
+      },
+      {
+        "category": "餐厨好物",
+        "commodities": [
+          {
+            "title": "100年传世珐琅锅",
+            "description": "特质铸铁，锁热节能",
+            "price": "268",
+            "pic": "http://yanxuan.nosdn.127.net/054b5bc3a4b733a36a6b90ff2270df93.png?imageView&quality=85&thumbnail=330x330",
+            "specification": "4色可选",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "Walking Juice破壁料理机套装",
+            "description": "会榨汁的杯子，15秒带走",
+            "price": "239",
+            "pic": "http://yanxuan.nosdn.127.net/569539637653da2c635212847f322e7a.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "懒人抹布",
+            "description": "吸水吸油，热销200万卷",
+            "price": "13.99",
+            "pic": "http://yanxuan.nosdn.127.net/22b832ace6eb10c7b0057eb6eae6c3c9.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "月牙白新骨瓷餐具",
+            "description": "德化白瓷，耐摔抗高温",
+            "price": "22.9",
+            "pic": "http://yanxuan.nosdn.127.net/6257825bfc4143b5367c99fdd0d7b5e2.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 1, "tag": "618特卖" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "冰激凌机",
+            "description": "水果也能做冰激凌，告别高热量",
+            "price": "169",
+            "pic": "http://yanxuan.nosdn.127.net/e22178ec1fbbf5d29a4c5f5558595789.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "618人气款" }, { "type": 1, "tag": "APP专享价" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "高硼硅玻璃凉水壶",
+            "description": "耐瞬间温差150℃ 冷热两用",
+            "price": "89",
+            "pic": "http://yanxuan.nosdn.127.net/05affdfb69e563b78179811bf0033d1e.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "618人气款" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "不滴漏系列方形调味瓶4件套",
+            "description": "防尘防潮，安全多用",
+            "price": "39.91399",
+            "pic": "http://yanxuan.nosdn.127.net/c915b9ce94c6b3812480aa3040fe7c50.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 1, "tag": "618特卖" }],
+            "pId": "p1000001"
+          }
+        ]
+      }
+    ],
+    "bestTopic": {
+      "pic": "https://yanxuan.nosdn.127.net/14956187480922543.jpg?imageView&thumbnail=0x420&quality=100",
+      "title": "夏日旅行箱打包手册",
+      "description": "旅行达人必备的出游良伴",
+      "lowestPrice": "19.9",
+      "topicId": "t101"
+    }
+  },
+  "userInfo": {
+    "uId": "00000001",
+    "name": "m18682145280_1",
+    "avatar": "http://yanxuan.nosdn.127.net/8945ae63d940cc42406c3f67019c5cb6.png",
+    "membership": 0
+  },
+  "manufacturers": [
+      {
+        "title": "MUJI制造商",
+        "description": "严选精选了MUJI制造商和生产原料，用几乎零利润的价格，剔除品牌溢价，让用户享受原品牌的品质生活。",
+        "lowestPrice": "12.9",
+        "hasNew": true,
+        "img": "http://yanxuan.nosdn.127.net/f13a5e85a83e10153fd31560adec254c.png",
+        "pics": ["http://yanxuan.nosdn.127.net/c351ed46e95431d5e86c6e657bf29895.png", "http://yanxuan.nosdn.127.net/37e428f56a574b3fc2edc0fccd1e71ee.png", "http://yanxuan.nosdn.127.net/23e0203f1512f33e605f61c28fa03d2d.png"],
+        "mId": "100001"
+      },
+      {
+        "title": "新秀丽制造商",
+        "description": "严选为制作品质与颜值兼具的箱包，选定新秀丽、CK、Ricardo等品牌合作的制造商，拥有国内先进流水线20余条，实力保障品质。",
+        "lowestPrice": "59",
+        "hasNew": true,
+        "img": "http://yanxuan.nosdn.127.net/42f994296d3393bcb4d54b7db13db5eb.png",
+        "pics": ["http://yanxuan.nosdn.127.net/722ddcef7c2b5d708a7a2a9ef1882a9f.png", "http://yanxuan.nosdn.127.net/722ddcef7c2b5d708a7a2a9ef1882a9f.png", "http://yanxuan.nosdn.127.net/e4321e65b1e16f5b8c980d5f7aaf883d.png"],
+        "mId": "100002"
+      },
+      {
+        "title": "CK制造商",
+        "description": "严选为制作品质与颜值兼具的箱包，选定新秀丽、CK、Ricardo等品牌合作的制造商，拥有国内先进流水线20余条，实力保障品质。",
+        "lowestPrice": "36",
+        "hasNew": true,
+        "img": "http://yanxuan.nosdn.127.net/37c1db09e289ff5a4e87937e9b6603e2.png",
+        "pics": ["http://yanxuan.nosdn.127.net/07b878a23ff79c4fb75a410a7a7541d9.png", "http://yanxuan.nosdn.127.net/5ec5d9d0a716635ac34487a3e0d568a2.png", "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png"],
+        "mId": "100002"
+      },
+      {
+        "title": "内野制造商",
+        "description": "严选从世界各地挑选毛巾，最终选择了为日本内野代工的工厂，追求毛巾的柔软度与功能性。品质比肩商场几百元的毛巾。",
+        "lowestPrice": "29",
+        "hasNew": false,
+        "img": "http://yanxuan.nosdn.127.net/f3c78d027dd70c8b1a60544c2cf227ad.png",
+        "pics": ["http://yanxuan.nosdn.127.net/d3571a8e36904b030b24d7c44e36c88e.png", "http://yanxuan.nosdn.127.net/d2b94f88340d2a0892de6d1323f5d5ff.png", "http://yanxuan.nosdn.127.net/c6796f2855da0561353f164afebbd898.png"],
+        "mId": "100003"
+      },
+      {
+        "title": "WMF制造商",
+        "description": "严选找寻德国百年高端厨具WMF的制造商，选择拥有14年经验的不锈钢生产工厂，为你甄选事半功倍的优质厨具。",
+        "lowestPrice": "9.9",
+        "hasNew": false,
+        "img": "http://yanxuan.nosdn.127.net/76afc2b6f153e63d3a9bf127a22c9d88.png",
+        "pics": ["http://yanxuan.nosdn.127.net/c706505c8323224f14b9da3c6645bf24.png", "http://yanxuan.nosdn.127.net/acba74a016940d8c277686bba646d19a.png", "http://yanxuan.nosdn.127.net/707f2269f8364d188da89ef37de79de4.png"],
+        "mId": "100004"
+      },
+      {
+        "title": "Coach制造商",
+        "description": "严选为制作高品质高颜值皮具配件，由Coach、MK等品牌制造商生产，由严选360度全程监制，给你带来优质皮具。",
+        "lowestPrice": "49",
+        "hasNew": false,
+        "img": "http://yanxuan.nosdn.127.net/90c105da724658a842eebced9b8d6df8.png",
+        "pics": ["http://yanxuan.nosdn.127.net/19257841af50287957e8b5a35615a3ed.png", "http://yanxuan.nosdn.127.net/ed67b5306538707156d8efd2ae0b9d38.png", "http://yanxuan.nosdn.127.net/c0b2e116bd67694a0393282adcb55e5d.png"],
+        "mId": "100005"
+      },
+      {
+        "title": "Police制造商",
+        "description": "严选团队选定Police品牌制造商合作，有11年眼镜生产资质，兼顾品质与品味，为你带来专业时尚的墨镜。",
+        "lowestPrice": "109",
+        "hasNew": false,
+        "img": "http://yanxuan.nosdn.127.net/034da6dac4a00ba6f10f96e5280647f0.png",
+        "pics": ["http://yanxuan.nosdn.127.net/9b614c25c8170c8b6cfcdce749aea2e5.png", "http://yanxuan.nosdn.127.net/3eb1048b19972af50d66bdc8f6182b23.png", "http://yanxuan.nosdn.127.net/c407c15f02e3d3574da17de7fc7fcaa1.png"],
+        "mId": "100006"
+      }
+  ],
+  "manufacturer": {
+    "": {
+      
+    }
+  },
+  "itemRecommend": {
+    "pic": "http://yanxuan.nosdn.127.net/8976116db321744084774643a933c5ce.png",
+    "commodities": [
+      {
+        "title": "奢华植鞣头层水牛皮席三件套",
+        "description": "三峡水牛头层皮，高端夏凉必备",
+        "price": "2499",
+        "pic": "http://yanxuan.nosdn.127.net/56e72b84a9bb66687c003ecdaba73816.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "4色可选",
+        "activity": [{ "type": 0, "tag": "618人气款"}, { "type": 1, "tag": "满赠" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "黑凤梨 20寸PC膜拉链登机箱",
+        "description": "热卖9万只，网易人手1只",
+        "price": "228",
+        "pic": "http://yanxuan.nosdn.127.net/3108aaae80416b1cf27c3d7cc5661cea.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "黑凤梨",
+        "pId": "p1000001"
+      },
+      {
+        "title": "日式蝴蝶结通勤女鞋",
+        "description": "细腻羊反绒，清甜制造",
+        "price": "169",
+        "pic": "http://yanxuan.nosdn.127.net/c70ef66f7c2251a47f0a2cdf8ebd83b7.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "3色可选",
+        "activity": [{ "type": 1, "tag": "限时购" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "Walking Juice破壁料理机套装",
+        "description": "会榨汁的杯子，15秒带走",
+        "price": "239",
+        "pic": "http://yanxuan.nosdn.127.net/569539637653da2c635212847f322e7a.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "日式和风声波式电动牙刷",
+        "description": "进口刷毛，专利技术",
+        "price": "129",
+        "pic": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "小龙虾 4-6钱/只 净虾850克",
+        "description": "好水好虾，鲜香弹润",
+        "price": "75",
+        "pic": "http://yanxuan.nosdn.127.net/a2cf3b86ecfd35b2d270cd17ff264cbd.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "两带式男/女款拖鞋",
+        "description": "鞋杯随脚型而变，舒适呵护",
+        "price": "69.9",
+        "pic": "http://yanxuan.nosdn.127.net/7d1c130c7d80edf824e4218c6829b7c8.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "2色可选",
+        "activity": [{ "type": 0, "tag": "爆品" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "暗格简约钢笔",
+        "description": "铱金暗尖，300超长书写",
+        "price": "39",
+        "pic": "http://yanxuan.nosdn.127.net/97ad483a94ed88216a989df83e39cbf0.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "4色可选",
+        "pId": "p1000001"
+      }
+    ]
+  },
+  "allNewItem": {
+    "pics": ["http://yanxuan.nosdn.127.net/19eecb37d113945abac92fd4afd934ac.jpg", "http://yanxuan.nosdn.127.net/074dde133fb94713f4cd6df337c7a678.jpg"],
+    "suggest": {
+      "title": "网易智造X3蓝牙HiFi耳机",
+      "description": "网易智造X3蓝牙HiFi耳机",
+      "price": "199",
+      "pic": "http://yanxuan.nosdn.127.net/7ea875e46ea109238445cdc0f6126bd8.png",
+      "pId": "p1000001"
+    },
+    "commodities": [
+      {
+        "title": "男式全棉珠地经典polo衫",
+        "description": "古典优雅，休闲也精致",
+        "price": "79",
+        "pic": "http://yanxuan.nosdn.127.net/8bbac1295b237f2204171321e1c1c446.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "pId": "p1000001"
+      },
+      {
+        "title": "网易智造N520除螨吸尘器",
+        "description": "除螨吸尘 深层清洁",
+        "price": "499",
+        "pic": "http://yanxuan.nosdn.127.net/a81f768e5a310d03211bb19ebf6089dc.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "618人气款"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "黑凤梨 盱眙小龙虾 7-9钱/只",
+        "description": "头小身大，饱满肥嫩",
+        "price": "98",
+        "pic": "http://yanxuan.nosdn.127.net/667fedf6e76843c199f47e1dc6fdf077.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "黑凤梨",
+        "pId": "p1000001"
+      },
+      {
+        "title": "光面羊皮蛋卷鞋",
+        "description": "头层羊皮，优雅芭蕾舞鞋",
+        "price": "199",
+        "pic": "http://yanxuan.nosdn.127.net/7f2c07000e78240afca6c531bf4d828f.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "activity": [{ "type": 0, "tag": "618人气款"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "网易智造X3蓝牙HiFi耳机",
+        "description": "HiFi 蓝牙无线 镀钛耳膜",
+        "price": "199",
+        "pic": "http://yanxuan.nosdn.127.net/7ea875e46ea109238445cdc0f6126bd8.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "男式棉麻合体直筒牛仔短裤",
+        "description": "合身剪裁的棉麻雅痞范",
+        "price": "169",
+        "pic": "http://yanxuan.nosdn.127.net/28fc360e623e981f96e9114b3cf04baa.png?imageView&quality=85&thumbnail=330x330",
+        "pId": "p1000001"
+      },
+      {
+        "title": "空气净化器",
+        "description": "PM2.5指数实时显示",
+        "price": "999",
+        "pic": "http://yanxuan.nosdn.127.net/534aa5bfc31d690c0cebf31f9710e5af.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "activity": [{ "type": 0, "tag": "618人气款" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "男式水柔棉圆领短袖T恤",
+        "description": "水柔棉质地，清爽亲肤",
+        "price": "89",
+        "pic": "http://yanxuan.nosdn.127.net/7dbfe657e1c7640d17fbd812dbd2e7e2.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "四色可选",
+        "pId": "p1000001"
+      }
+    ]
+  },
+  "cateList": [
+    [
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/29ca9cb62eef8e522abb4b2d43920518.png?imageView&thumbnail=64y64",
+        "author": "丁磊",
+        "pics": ["http://yanxuan.nosdn.127.net/81f81e273b55ba2a693a6482f0ffe194.jpg"],
+        "viewcount": "128300",
+        "title": "怕热又怕过凉，不妨试试它",
+        "description": "牛皮席限时8折，还送缎纹床单",
+        "lowest": "149"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/29ca9cb62eef8e522abb4b2d43920518.png?imageView&thumbnail=64y64",
+        "author": "丁磊",
+        "pics": ["http://yanxuan.nosdn.127.net/35fa992ffcd0538550778da342409d4e.jpg"],
+        "viewcount": "50600",
+        "title": "一粒米饭上住着7个神明",
+        "description": "伊贺烧限时直减121元",
+        "lowest": "9.9"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/29ca9cb62eef8e522abb4b2d43920518.png?imageView&thumbnail=64y64",
+        "author": "丁磊",
+        "pics": ["https://yanxuan.nosdn.127.net/14960310309231032.jpg"],
+        "viewcount": "30500",
+        "title": "黄梅时节家家雨，闲嗑瓜子坐喝茶",
+        "description": "多款小食直减中，最高7折优惠",
+        "lowest": "15"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/29ca9cb62eef8e522abb4b2d43920518.png?imageView&thumbnail=64y64",
+        "author": "丁磊",
+        "pics": ["https://yanxuan.nosdn.127.net/14949374407308229.jpg"],
+        "viewcount": "74700",
+        "title": "将繁杂的人生，用这张纸打包",
+        "description": "撕不烂的杜邦纸收纳袋，旅行必备",
+        "lowest": "29"
+      }
+    ], 
+    [
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/0582fd58af405c2c1f55617ebc103421.png?imageView&thumbnail=64y64",
+        "author": "严选推荐",
+        "pics": ["http://yanxuan.nosdn.127.net/377e720498561fe6e6c6ae0b0e1be5b4.jpg"],
+        "viewcount": "58100",
+        "title": "夏日减脂，它们给你动力",
+        "description": "8折减脂加油卡限时领",
+        "lowest": "12"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/0582fd58af405c2c1f55617ebc103421.png?imageView&thumbnail=64y64",
+        "author": "严选推荐",
+        "pics": ["http://yanxuan.nosdn.127.net/f3b01827be980355607ba93d3cf3cff8.jpg"],
+        "viewcount": "53900",
+        "title": "夏日厨房必备清凉好物",
+        "description": "它们让你家厨房，变成健康甜品店",
+        "lowest": "12"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/0582fd58af405c2c1f55617ebc103421.png?imageView&thumbnail=64y64",
+        "author": "严选推荐",
+        "pics": ["http://yanxuan.nosdn.127.net/5c166c9a4301b3d7b1b36e32558dead7.jpg"],
+        "viewcount": "46300",
+        "title": "家的精致主义",
+        "description": "简美家具新款首发",
+        "lowest": "35"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/0582fd58af405c2c1f55617ebc103421.png?imageView&thumbnail=64y64",
+        "author": "严选推荐",
+        "pics": ["http://yanxuan.nosdn.127.net/08b09f39aaf01bfbed55d9dc05a9a32c.jpg"],
+        "viewcount": "58100",
+        "title": "幸福的家，不能少懒人沙发",
+        "description": "618活动限时8折，买还送抱枕",
+        "lowest": "29"
+      },
+      {
+        "avatar": "http://yanxuan.nosdn.127.net/0582fd58af405c2c1f55617ebc103421.png?imageView&thumbnail=64y64",
+        "author": "严选推荐",
+        "pics": ["http://yanxuan.nosdn.127.net/913beafab8e0413b8f8de09c5cbc35dd.jpg"],
+        "viewcount": "125700",
+        "title": "男士夏季搭配指南",
+        "description": "8种超简单搭配，搭出夏日清爽",
+        "lowest": "12"
+      }
+    ],
+    [
+      {
+        "avatar": "https://yanxuan.nosdn.127.net/14980408148652516.png?imageView&thumbnail=64y64",
+        "author": "杂货组：冯娟",
+        "pics": ["https://yanxuan.nosdn.127.net/14980408390412517.jpg", "https://yanxuan.nosdn.127.net/14980408410492518.jpg", "https://yanxuan.nosdn.127.net/14980408437692519.jpg"],
+        "viewcount": "4600",
+        "title": "梅雨季，你的防水装备齐了吗",
+        "description": "办公室外的倾盆大雨，正式开启了杭州的梅雨季。这个每年6月都会袭击江南的季节，让防水防潮成了家家户户都必须攻打的战役"
+      },
+      {
+        "avatar": "https://yanxuan.nosdn.127.net/14979534888332248.png?imageView&thumbnail=64y64",
+        "author": "洗护组：北北",
+        "pics": ["https://yanxuan.nosdn.127.net/14979535851342252.jpg", "https://yanxuan.nosdn.127.net/14979536486172257.JPG", "https://yanxuan.nosdn.127.net/14979535573692250.jpg"],
+        "viewcount": "6200",
+        "title": "这些神器帮你打造夏日美肌",
+        "description": "日常护肤，涂涂抹抹勉强足够，但若想更有效地解决皮肤问题，就需要一些高科技的美容仪了，我们组的美容达人对此很有研究。"
+      },
+      {
+        "avatar": "https://yanxuan.nosdn.127.net/14979520385982246.png?imageView&thumbnail=64y64",
+        "author": "电器组：卷毛",
+        "pics": ["https://yanxuan.nosdn.127.net/14977895927260978.jpg", "https://yanxuan.nosdn.127.net/14977895858670976.jpg", "https://yanxuan.nosdn.127.net/14977896026140980.jpg"],
+        "viewcount": "10700",
+        "title": "呼吸一口它带来的清新好空气",
+        "description": "似乎人们都觉得，关上窗子就能隔绝外面的空气污染，然而窗外渗透而来的雾霾，空调间里的尘螨病菌，装修后的甲醛残留，都是难以察觉的危害。"
+      }
+    ], 
+    [
+       {
+        "avatar": "https://yanxuan.nosdn.127.net/14937214529340142.png?imageView&thumbnail=64y64",
+        "author": "明星商品",
+        "pics": ["https://yanxuan.nosdn.127.net/14937214454750141.jpg"],
+        "viewcount": "46300",
+        "title": "这只锅，可以从祖母用到孙辈",
+        "description": "传世珐琅锅，一种法式浪漫",
+        "lowest": "149"
+      }
+    ] 
+  ],
+  "topicDetail": {
+    "user": {
+      "avatar": "http://yanxuan.nosdn.127.net/29ca9cb62eef8e522abb4b2d43920518.png?imageView&thumbnail=64y64",
+      "author": "丁磊"
+    },
+    "pic": "https://yanxuan.nosdn.127.net/14985288500086068.jpg",
+    "title": "美好的一天，从用心刷牙开始",
+    "readCount": "11223",
+    "reward": "1200",
+    "descs": [
+      "作为一款能迅速提升幸福感的浴室单品，电动牙刷自从在严选上架后，就立刻成为爆品。很多用户反馈，使用它带来的“爽感”，凡是体验过一次，就再也用不回传统牙刷。最近我们推出了功能更强大的新款——全净皓齿变速式声波电动牙刷，希望能让更健康的刷牙方式，开启你每一个美好早晨。",
+      "这款电动牙刷，采用了符合亚洲人的齿形和口腔习惯的设计。它拥有5个档位、 4种清洁模式，高达31000+/分钟的高频振动，和刷头9mm的大摆幅，能深入牙齿难刷的部位进行清洁，有效清除国人因抽烟、饮茶等造成的牙渍，让刷完后的牙齿，干净得忍不住一舔再舔。",
+      "除了清洁力强大，它还足够贴心。系统自带2分钟定时功能，能完美保证刷牙时间，力度过大时，还会蜂鸣提醒。牙刷充满电能用10天，出差时连充电器都不用带。",
+      "不管是自己尝试，还是作为小礼物送亲朋，这款电动牙刷都是拿得出手的好选择。另外，敏感及受损牙质的小伙伴，可选用日式和风声波式电动牙刷，声波清洁，颜值满分。适合小朋友的有负离子儿童安全学习牙刷，只需用水，无需牙膏。同款不同色的牙刷，也很适合作为情侣款。"
+    ],
+    "commodities": [
+      {
+        "title": "100年传世珐琅锅",
+        "description": "特质铸铁，锁热节能",
+        "price": "268",
+        "pic": "http://yanxuan.nosdn.127.net/054b5bc3a4b733a36a6b90ff2270df93.png?imageView&quality=85&thumbnail=330x330",
+        "specification": "4色可选",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "Walking Juice破壁料理机套装",
+        "description": "会榨汁的杯子，15秒带走",
+        "price": "239",
+        "pic": "http://yanxuan.nosdn.127.net/569539637653da2c635212847f322e7a.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "懒人抹布",
+        "description": "吸水吸油，热销200万卷",
+        "price": "13.99",
+        "pic": "http://yanxuan.nosdn.127.net/22b832ace6eb10c7b0057eb6eae6c3c9.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "爆品"}],
+        "pId": "p1000001"
+      },
+      {
+        "title": "月牙白新骨瓷餐具",
+        "description": "德化白瓷，耐摔抗高温",
+        "price": "22.9",
+        "pic": "http://yanxuan.nosdn.127.net/6257825bfc4143b5367c99fdd0d7b5e2.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 1, "tag": "618特卖" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "冰激凌机",
+        "description": "水果也能做冰激凌，告别高热量",
+        "price": "169",
+        "pic": "http://yanxuan.nosdn.127.net/e22178ec1fbbf5d29a4c5f5558595789.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "618人气款" }, { "type": 1, "tag": "APP专享价" }],
+        "pId": "p1000001"
+      },
+      {
+        "title": "高硼硅玻璃凉水壶",
+        "description": "耐瞬间温差150℃ 冷热两用",
+        "price": "89",
+        "pic": "http://yanxuan.nosdn.127.net/05affdfb69e563b78179811bf0033d1e.png?imageView&quality=85&thumbnail=330x330",
+        "activity": [{ "type": 0, "tag": "618人气款" }],
+        "pId": "p1000001"
+      }
+    ],
+    "comments": [
+      {
+        "avatar": "https://yanxuan.nosdn.127.net/03255f70f38761516d8f1927abafc9bd.jpg",
+        "name": "z****a",
+        "vip": 1,
+        "time": "2017-06-18 16:51:43",
+        "content": "实物比介绍看起来小些，但有点小重。能大点就更好了。说明书上有错字，看到了么？",
+        "like": 2
+      },
+      {
+        "avatar": "https://yanxuan.nosdn.127.net/c386d32388c4d6cfab5a3578748e6985",
+        "name": "星****",
+        "vip": 1,
+        "time": "2017-06-18 16:51:43",
+        "content": "希望可以对应的出牙刷头 可以有的换着用的那种",
+         "like": 1,
+        "replies": [
+          {
+            "from": "选妹",
+            "content": "现在就有的配套的刷头哦~"
+          }
+        ]
+      }
+    ],
+    "recommendTopics": [
+      {
+        "pic": "https://yanxuan.nosdn.127.net/14951934215120540.jpg?imageView&thumbnail=642y360&quality=100",
+        "title": "用最简单的方式治愈生活"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/dd07d01de3cf6df60e85349f1766ea8d.jpg?imageView&thumbnail=642y360&quality=100",
+        "title": "摆脱空巢恐惧，享受独居生活"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/9c7aa0f24bc51293f7d79ff08f6ac1c6.jpg?imageView&thumbnail=642y360&quality=100",
+        "title": "一把雨伞成就一位绅士"
+      }
+    ]
+  },
+  "productDetail": {
+    "p1000001": {
+      "pId": "p1000001",
+      "title": "原素系列实木餐桌 1.4米",
+      "description": "MUJI代工厂，素雅大气，结实不易蛀",
+      "price": "1699",
+      "commentCount": "0",
+      "pics": ["http://yanxuan.nosdn.127.net/4d46d75bdf3e773ce0636accbf3c4a04.png", "http://yanxuan.nosdn.127.net/c1b57dea42c4ee7efb60eff6cbe5c307.jpg", "http://yanxuan.nosdn.127.net/c84959b9a7dc149f48e7d33e26c117e5.jpg", "http://yanxuan.nosdn.127.net/c84959b9a7dc149f48e7d33e26c117e5.jpg", "http://yanxuan.nosdn.127.net/79976ed392e1ade8327c5800c778c514.jpg"],
+      "format": [
+        {
+          "name": "颜色",
+          "options": ["原木色", "胡桃木色"]
+        },
+        {
+          "name": "规格",
+          "options": ["1400*820*750mm", "1800*1260*750mm"]
+        }
+      ],
+      "remark": "大家具送货安装及售后服务细则>>",
+      "activity": [
+        {
+          "name": "家居好物免费领 全场每满199减40",
+          "tag": "限时",
+          "activityId": "101"
+        }
+      ],
+      "characteristics": [
+        {
+          "items": ["简单巧妙", "稳固链接"],
+          "pic": "http://yanxuan.nosdn.127.net/a5e48c2ea5682773008c7b1086fd5ceb.jpg"
+        }, 
+        {
+          "items": ["圆角打磨", "安全放心"],
+          "pic": "http://yanxuan.nosdn.127.net/6bc0661e1467457197d99b93dc153dbd.jpg"
+        },
+          {
+          "items": ["忠于原木", "自然纹理"],
+          "pic": "http://yanxuan.nosdn.127.net/a5bbe1c9b55266090cf18d8a78ca5a0c.jpg"
+        }
+      ],
+      "tags": [{ "name": "新品", "tId": "1200000"}, { "name": "MUJI制造商", "tId": "1200001" }],
+      "services": ["30天无忧退货", "48小时快速退款", "满88元免邮费", "网易自营品牌", "部分地区无法配送"],
+      "detailPics": ["http://yanxuan.nosdn.127.net/ef53b73ebf9bf482e8424aa5910aae5e.jpg", "http://yanxuan.nosdn.127.net/afe0e6309b07ca1bbf0df252419ce7e3.jpg", "http://yanxuan.nosdn.127.net/23b09c1721979086d4912089ec50e84d.jpg", "http://yanxuan.nosdn.127.net/7969aaff6ae99e8f398f39816f0d2ed6.jpg",
+        "http://yanxuan.nosdn.127.net/4f98bbd05d4640d99c4358e5ab2377dc.jpg", "http://yanxuan.nosdn.127.net/4bfb1ea5ff5ad1739e6c02267e5dffae.jpg", "http://yanxuan.nosdn.127.net/e206c3665131b87ddc61d20b80dced16.jpg", "http://yanxuan.nosdn.127.net/52ca8ccc276f44146bab888a23592102.jpg", "http://yanxuan.nosdn.127.net/b156739dcacca6c477c1daca8f7ef508.jpg",
+        "http://yanxuan.nosdn.127.net/1bc868f11288b92ebd9f4e9fed2584e9.jpg", "http://yanxuan.nosdn.127.net/b5a22b5a710ca36f9836cf6234c19277.jpg", "http://yanxuan.nosdn.127.net/13a28cea55bb6d2efe8a28ad9b1dc698.jpg", "http://yanxuan.nosdn.127.net/63d905fb4b67a4baba668b6e6a93cbb5.jpg",
+        "http://yanxuan.nosdn.127.net/230a388048354582fee4a3f0078cddda.jpg", "http://yanxuan.nosdn.127.net/3f1274c471342480fb516881b5ae21e0.jpg", "http://yanxuan.nosdn.127.net/aaccc31334b6e0e28f647a022c8955eb.jpg", "http://yanxuan.nosdn.127.net/05a4a1aa45fbfdc711b61a92840e30ea.jpg", "http://yanxuan.nosdn.127.net/4f4d77bd030309c6cfcf4b868f87d2e8.jpg",
+        "http://yanxuan.nosdn.127.net/395730ee03d2cd2053269f2ed6c0ee97.jpg", "http://yanxuan.nosdn.127.net/7393c0b0eeafb858a1adbfe7671fa224.jpg", "http://yanxuan.nosdn.127.net/9042956a64e0e3d58ffbc70160281eaa.jpg", "http://yanxuan.nosdn.127.net/46300b11ee09b3c0cac41a8c88203abd.jpg", "http://yanxuan.nosdn.127.net/847b1298aeab62b908f92ddb150bfd46.jpg",
+        "http://yanxuan.nosdn.127.net/ce61d7917509e5a0049a4651f75b4b65.jpg", "http://yanxuan.nosdn.127.net/be36db9971c6cd29b835aab31d2cd46e.jpg", "http://yanxuan.nosdn.127.net/f7f75e099205312371d56267bc385230.jpg", "http://yanxuan.nosdn.127.net/d97e15dc49b6a38add90d7f584c7f86a.jpg", "http://yanxuan.nosdn.127.net/3a9971b50d18d5c2697248fcf86435bd.jpg",
+        "http://yanxuan.nosdn.127.net/f1fcae3fbf18dade10207da8982162ea.jpg", "http://yanxuan.nosdn.127.net/814c95c3376f3d74835c98b42f1b6dc7.jpg", "http://yanxuan.nosdn.127.net/c0238d5f811e2cc1ae0528aef6f8025b.jpg", "http://yanxuan.nosdn.127.net/ea6b9ff611d682c65387d3587b4c7323.jpg", "http://yanxuan.nosdn.127.net/7d354323f8e964ee77edc0daf08d6faa.jpg",
+        "http://yanxuan.nosdn.127.net/460f64576a0d7a5c5fd501574d3a364e.jpg", "http://yanxuan.nosdn.127.net/49e7488a2306830b261c9726ba49ea04.jpg", "http://yanxuan.nosdn.127.net/9e5a809e688942933aa9ad3e810b0311.jpg", "http://yanxuan.nosdn.127.net/05d079ea49fbdafd0aba7427a5b93522.jpg", "http://yanxuan.nosdn.127.net/f550dc7a38f5e4375d55ed2ea56cf838.jpg",
+        "http://yanxuan.nosdn.127.net/928a4db68ef9475871049b601d6d9983.jpg", "http://yanxuan.nosdn.127.net/ccaa67ffee0b4bbfeb0909ac11cfcd33.jpg", "http://yanxuan.nosdn.127.net/8da6bda843f8c67f51d3afec3fbe23e6.jpg", "http://yanxuan.nosdn.127.net/fdfcb93ce9cd6cdbba19d69305d438a5.jpg", "http://yanxuan.nosdn.127.net/dfa5148a0ba266d05ab973f5d2b363d3.jpg",
+        "http://yanxuan.nosdn.127.net/3de8029f1a0fb535adcd41cc79646e80.jpg", "http://yanxuan.nosdn.127.net/32921ce7eb344ee5f3888f38d1a7a072.jpg", "http://yanxuan.nosdn.127.net/0078a36433f89759a8f468bfdb34c0a7.jpg", "http://yanxuan.nosdn.127.net/7c46cd327f1cf94b3f03b55c061418f5.jpg", "http://yanxuan.nosdn.127.net/a6d869d45712f226c7a6ab555e161233.jpg",
+        "http://yanxuan.nosdn.127.net/6b48aa2e873eb47333f018fff1d76630.jpg", "http://yanxuan.nosdn.127.net/7a81e1875799f7da449c87d80b641731.jpg", "http://yanxuan.nosdn.127.net/99f3658a533d25bd07352071a9cbe45f.jpg", "http://yanxuan.nosdn.127.net/182543e58dc5393467883e2e26519728.jpg", "http://yanxuan.nosdn.127.net/b1ea67e24eac8a86f3cb187dcee62d95.jpg",
+        "http://yanxuan.nosdn.127.net/6680a6f42b7f13ac0e98d90557917cc6.jpg", "http://yanxuan.nosdn.127.net/a673f85989f21039bc388944bbdb9d7a.jpg", "http://yanxuan.nosdn.127.net/e2a2419c8c76851a60857c8a033fa1d0.jpg", "http://yanxuan.nosdn.127.net/35938375758355736cf416cad168963e.jpg", ""
+      ],
+      "attrs": [
+        { "name": "材质", "content": "进口白蜡木" },
+        { "name": "涂漆", "content": "环保涂漆" },
+        { "name": "产品尺寸", "content": "1400/1600*820*750mm" },
+        { "name": "安装方式", "content": "需要组装" }
+      ],
+      "stock": 111
+    },
+    "p1000002": {
+      "pId": "p1000002",
+      "title": "日本制造 南部铁器风炒锅30cm",
+      "description": "百年铁器文化，还原品质生活",
+      "price": "359",
+      "commentCount": "1230",
+      "lastestComment": {
+        "avatar": "https://yanxuan.nosdn.127.net/03255f70f38761516d8f1927abafc9bd.jpg",
+        "name": "z****a",
+        "vip": 1,
+        "time": "2017-06-18 16:51:43",
+        "content": "实物比介绍看起来小些，但有点小重。能大点就更好了。说明书上有错字，看到了么？",
+        "pics": ["http://yanxuan.nosdn.127.net/44dca6d6ef517a91199a79452b85b3a3.png", "https://yanxuan.nosdn.127.net/30a597c55a8f2ad2853b7abe14bfa4ee.jpg"],
+        "attrs": ["独家定制 炒锅30cm"]
+      },
+      "pics": ["http://yanxuan.nosdn.127.net/44dca6d6ef517a91199a79452b85b3a3.png", "http://yanxuan.nosdn.127.net/1658e54c3fb6047198162054747a8e59.jpg", "http://yanxuan.nosdn.127.net/83360f817cc2903e59ef4efbf1e99a0f.jpg", "http://yanxuan.nosdn.127.net/79e7460d6f8bf9683300ac5ab2e27285.jpg", "http://yanxuan.nosdn.127.net/cb38a7194325b3cfe340325026d11091.jpg"],
+      "format": [
+        {
+          "name": "规格",
+          "options": ["铁锅", "铝锅"]
+        }
+      ],
+      "remark": "大家具送货安装及售后服务细则>>",
+      "activity": [
+        {
+          "name": "家居好物免费领 全场每满199减40",
+          "tag": "限时",
+          "activityId": "101"
+        },
+        {
+          "name": "满163元送除菌消臭喷雾",
+          "tag": "满赠",
+          "activityId": "102"
+        }
+      ],
+      "coupon": [
+        {
+          "type": "海外制造商8折券",
+          "couponId": "201"
+        }
+      ],
+      "characteristics": [
+        {
+          "items": ["安全认证", "安心健康"],
+          "pic": "http://yanxuan.nosdn.127.net/59a3fcca88779e4ecafda76dbd35fe71.jpg"
+        }, 
+        {
+          "items": ["保留食材", "自然本味"],
+          "pic": "http://yanxuan.nosdn.127.net/edc3d28e337d54b5a65f0d81e8cfb219.jpg"
+        },
+          {
+          "items": ["光滑木柄", "握感舒适"],
+          "pic": "http://yanxuan.nosdn.127.net/7f4d9b48c523bccce239759053a0cf5f.jpg"
+        }
+      ],
+      "tags": [{ "name": "日本柳宗理制造商", "tId": "1200001" }],
+      "services": ["30天无忧退货", "48小时快速退款", "满88元免邮费", "网易自营品牌", "部分地区无法配送"],
+      "detailPics": ["http://yanxuan.nosdn.127.net/ef53b73ebf9bf482e8424aa5910aae5e.jpg", "http://yanxuan.nosdn.127.net/afe0e6309b07ca1bbf0df252419ce7e3.jpg", "http://yanxuan.nosdn.127.net/23b09c1721979086d4912089ec50e84d.jpg", "http://yanxuan.nosdn.127.net/7969aaff6ae99e8f398f39816f0d2ed6.jpg",
+        "http://yanxuan.nosdn.127.net/4f98bbd05d4640d99c4358e5ab2377dc.jpg", "http://yanxuan.nosdn.127.net/4bfb1ea5ff5ad1739e6c02267e5dffae.jpg", "http://yanxuan.nosdn.127.net/e206c3665131b87ddc61d20b80dced16.jpg", "http://yanxuan.nosdn.127.net/52ca8ccc276f44146bab888a23592102.jpg", "http://yanxuan.nosdn.127.net/b156739dcacca6c477c1daca8f7ef508.jpg",
+        "http://yanxuan.nosdn.127.net/1bc868f11288b92ebd9f4e9fed2584e9.jpg", "http://yanxuan.nosdn.127.net/b5a22b5a710ca36f9836cf6234c19277.jpg", "http://yanxuan.nosdn.127.net/13a28cea55bb6d2efe8a28ad9b1dc698.jpg", "http://yanxuan.nosdn.127.net/63d905fb4b67a4baba668b6e6a93cbb5.jpg",
+        "http://yanxuan.nosdn.127.net/230a388048354582fee4a3f0078cddda.jpg", "http://yanxuan.nosdn.127.net/3f1274c471342480fb516881b5ae21e0.jpg", "http://yanxuan.nosdn.127.net/aaccc31334b6e0e28f647a022c8955eb.jpg", "http://yanxuan.nosdn.127.net/05a4a1aa45fbfdc711b61a92840e30ea.jpg", "http://yanxuan.nosdn.127.net/4f4d77bd030309c6cfcf4b868f87d2e8.jpg",
+        "http://yanxuan.nosdn.127.net/395730ee03d2cd2053269f2ed6c0ee97.jpg", "http://yanxuan.nosdn.127.net/7393c0b0eeafb858a1adbfe7671fa224.jpg", "http://yanxuan.nosdn.127.net/9042956a64e0e3d58ffbc70160281eaa.jpg", "http://yanxuan.nosdn.127.net/46300b11ee09b3c0cac41a8c88203abd.jpg", "http://yanxuan.nosdn.127.net/847b1298aeab62b908f92ddb150bfd46.jpg",
+        "http://yanxuan.nosdn.127.net/ce61d7917509e5a0049a4651f75b4b65.jpg", "http://yanxuan.nosdn.127.net/be36db9971c6cd29b835aab31d2cd46e.jpg", "http://yanxuan.nosdn.127.net/f7f75e099205312371d56267bc385230.jpg", "http://yanxuan.nosdn.127.net/d97e15dc49b6a38add90d7f584c7f86a.jpg", "http://yanxuan.nosdn.127.net/3a9971b50d18d5c2697248fcf86435bd.jpg",
+        "http://yanxuan.nosdn.127.net/f1fcae3fbf18dade10207da8982162ea.jpg", "http://yanxuan.nosdn.127.net/814c95c3376f3d74835c98b42f1b6dc7.jpg", "http://yanxuan.nosdn.127.net/c0238d5f811e2cc1ae0528aef6f8025b.jpg", "http://yanxuan.nosdn.127.net/ea6b9ff611d682c65387d3587b4c7323.jpg", "http://yanxuan.nosdn.127.net/7d354323f8e964ee77edc0daf08d6faa.jpg",
+        "http://yanxuan.nosdn.127.net/460f64576a0d7a5c5fd501574d3a364e.jpg", "http://yanxuan.nosdn.127.net/49e7488a2306830b261c9726ba49ea04.jpg", "http://yanxuan.nosdn.127.net/9e5a809e688942933aa9ad3e810b0311.jpg", "http://yanxuan.nosdn.127.net/05d079ea49fbdafd0aba7427a5b93522.jpg", "http://yanxuan.nosdn.127.net/f550dc7a38f5e4375d55ed2ea56cf838.jpg",
+        "http://yanxuan.nosdn.127.net/928a4db68ef9475871049b601d6d9983.jpg", "http://yanxuan.nosdn.127.net/ccaa67ffee0b4bbfeb0909ac11cfcd33.jpg", "http://yanxuan.nosdn.127.net/8da6bda843f8c67f51d3afec3fbe23e6.jpg", "http://yanxuan.nosdn.127.net/fdfcb93ce9cd6cdbba19d69305d438a5.jpg", "http://yanxuan.nosdn.127.net/dfa5148a0ba266d05ab973f5d2b363d3.jpg",
+        "http://yanxuan.nosdn.127.net/3de8029f1a0fb535adcd41cc79646e80.jpg", "http://yanxuan.nosdn.127.net/32921ce7eb344ee5f3888f38d1a7a072.jpg", "http://yanxuan.nosdn.127.net/0078a36433f89759a8f468bfdb34c0a7.jpg", "http://yanxuan.nosdn.127.net/7c46cd327f1cf94b3f03b55c061418f5.jpg", "http://yanxuan.nosdn.127.net/a6d869d45712f226c7a6ab555e161233.jpg",
+        "http://yanxuan.nosdn.127.net/6b48aa2e873eb47333f018fff1d76630.jpg", "http://yanxuan.nosdn.127.net/7a81e1875799f7da449c87d80b641731.jpg", "http://yanxuan.nosdn.127.net/99f3658a533d25bd07352071a9cbe45f.jpg", "http://yanxuan.nosdn.127.net/182543e58dc5393467883e2e26519728.jpg", "http://yanxuan.nosdn.127.net/b1ea67e24eac8a86f3cb187dcee62d95.jpg",
+        "http://yanxuan.nosdn.127.net/6680a6f42b7f13ac0e98d90557917cc6.jpg", "http://yanxuan.nosdn.127.net/a673f85989f21039bc388944bbdb9d7a.jpg", "http://yanxuan.nosdn.127.net/e2a2419c8c76851a60857c8a033fa1d0.jpg", "http://yanxuan.nosdn.127.net/35938375758355736cf416cad168963e.jpg", ""
+      ],
+      "attrs": [
+        { "name": "品牌定制款", "content": "独家定制 炒锅30cm" }
+      ],
+      "stock": 999 
+    }
+  },
+  "section": {
+    "1000001": [
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "新品买送",
+        "subCategoryId": "110001"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "满三免一",
+        "subCategoryId": "110002"
+      }
+      ,
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "热卖爆品",
+        "subCategoryId": "110003"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "新品买送",
+        "subCategoryId": "110001"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "满三免一",
+        "subCategoryId": "110002"
+      }
+      ,
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "热卖爆品",
+        "subCategoryId": "110003"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "新品买送",
+        "subCategoryId": "110001"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "满三免一",
+        "subCategoryId": "110002"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/360e6a2b6b2ee28c69f32e616c958ff8.png?imageView&quality=85&thumbnail=144x144",
+        "title": "热卖爆品",
+        "subCategoryId": "110003"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "满三免一",
+        "subCategoryId": "110002"
+      }
+    ],
+    "1000002": [
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      }
+    ],
+     "1000003": [
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      }
+    ],
+    "1000004": [
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/8c710c70d2503c55e8735314eaec9727.png?imageView&quality=85&thumbnail=144x144",
+        "title": "当季美食",
+        "subCategoryId": "110004"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/24795ed734bcfcf59e9777a87601764d.png?imageView&quality=85&thumbnail=144x144",
+        "title": "凉水杯",
+        "subCategoryId": "110005"
+      },
+      {
+        "pic": "http://yanxuan.nosdn.127.net/7a1bc214eb97ce448a7cb2ba5f407e2f.png?imageView&quality=85&thumbnail=144x144",
+        "title": "茶叶冲饮",
+        "subCategoryId": "110006"
+      }
+    ]
+  },
+  "categoryCommodity": {
+    "description": "夏凉床品，舒适一夏",
+    "commodities": [
+      {
+            "title": "100年传世珐琅锅",
+            "description": "特质铸铁，锁热节能",
+            "price": "268",
+            "pic": "http://yanxuan.nosdn.127.net/054b5bc3a4b733a36a6b90ff2270df93.png?imageView&quality=85&thumbnail=330x330",
+            "specification": "4色可选",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "Walking Juice破壁料理机套装",
+            "description": "会榨汁的杯子，15秒带走",
+            "price": "239",
+            "pic": "http://yanxuan.nosdn.127.net/569539637653da2c635212847f322e7a.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "懒人抹布",
+            "description": "吸水吸油，热销200万卷",
+            "price": "13.99",
+            "pic": "http://yanxuan.nosdn.127.net/22b832ace6eb10c7b0057eb6eae6c3c9.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "爆品"}],
+            "pId": "p1000001"
+          },
+          {
+            "title": "月牙白新骨瓷餐具",
+            "description": "德化白瓷，耐摔抗高温",
+            "price": "22.9",
+            "pic": "http://yanxuan.nosdn.127.net/6257825bfc4143b5367c99fdd0d7b5e2.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 1, "tag": "618特卖" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "冰激凌机",
+            "description": "水果也能做冰激凌，告别高热量",
+            "price": "169",
+            "pic": "http://yanxuan.nosdn.127.net/e22178ec1fbbf5d29a4c5f5558595789.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "618人气款" }, { "type": 1, "tag": "APP专享价" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "高硼硅玻璃凉水壶",
+            "description": "耐瞬间温差150℃ 冷热两用",
+            "price": "89",
+            "pic": "http://yanxuan.nosdn.127.net/05affdfb69e563b78179811bf0033d1e.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 0, "tag": "618人气款" }],
+            "pId": "p1000001"
+          },
+          {
+            "title": "不滴漏系列方形调味瓶4件套",
+            "description": "防尘防潮，安全多用",
+            "price": "39.91399",
+            "pic": "http://yanxuan.nosdn.127.net/c915b9ce94c6b3812480aa3040fe7c50.png?imageView&quality=85&thumbnail=330x330",
+            "activity": [{ "type": 1, "tag": "618特卖" }],
+            "pId": "p1000001"
+          }
+    ]
+  },
+  "pinCommodity": [
+    {
+      "pic": "https://yanxuan.nosdn.127.net/b68278eaaaa3be2e9e84c1e7eebe8031.jpg",
+      "title": "低价包邮 坚果夹心海苔（3包装）",
+      "price": "42",
+      "pinPrice": "32",
+      "pinCount": 2,
+      "left": 0,
+      "pinId": "190000"
+    },
+    {
+      "pic": "https://yanxuan.nosdn.127.net/aa246e3b5c4b6f828bd13a53a11044c5.jpg",
+      "title": "低至66折 日式纯棉针织条纹抱枕",
+      "price": "59",
+      "pinPrice": "39",
+      "pinCount": 5,
+      "left": 10,
+      "pinId": "190001"
+    },
+    {
+      "pic": "https://yanxuan.nosdn.127.net/b68278eaaaa3be2e9e84c1e7eebe8031.jpg",
+      "title": "低价包邮 坚果夹心海苔（3包装）",
+      "price": "42",
+      "pinPrice": "32",
+      "pinCount": 2,
+      "left": 0,
+      "pinId": "190000"
+    },
+    {
+      "pic": "https://yanxuan.nosdn.127.net/aa246e3b5c4b6f828bd13a53a11044c5.jpg",
+      "title": "低至66折 日式纯棉针织条纹抱枕",
+      "price": "59",
+      "pinPrice": "39",
+      "pinCount": 5,
+      "left": 10,
+      "pinId": "190001"
+    },
+    {
+      "pic": "https://yanxuan.nosdn.127.net/b68278eaaaa3be2e9e84c1e7eebe8031.jpg",
+      "title": "低价包邮 坚果夹心海苔（3包装）",
+      "price": "42",
+      "pinPrice": "32",
+      "pinCount": 2,
+      "left": 0,
+      "pinId": "190000"
+    },
+    {
+      "pic": "https://yanxuan.nosdn.127.net/aa246e3b5c4b6f828bd13a53a11044c5.jpg",
+      "title": "低至66折 日式纯棉针织条纹抱枕",
+      "price": "59",
+      "pinPrice": "39",
+      "pinCount": 5,
+      "left": 10,
+      "pinId": "190001"
+    }
+  ],
+  "commodityFormat": {
+    "title": ""
+
+  }
+}
