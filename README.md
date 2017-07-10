@@ -1,28 +1,15 @@
 # vue2-yanxuan
-> A Vue.js project
+> Vue2练手。仿网易严选。
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+git clone https://github.com/luoshi0429/vue2-yanxuan.git
+cd vue2-yanxuan
+# 使用json-server假装网络请求
+npm install -g json-server
+json-server --watch data.json --port 3300
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
+npm start
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-使用vue2仿网易严选
