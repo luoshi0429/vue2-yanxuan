@@ -21,6 +21,12 @@
       min: { type: Number, default: 1 },
       handleChange: { type: Function, default: () => {} }
     },
+    watch: {
+      current: function (val, oldVal) {
+        if (val === oldVal) return
+        this.count = val
+      }
+    },
     methods: {
       handleAdd () {
         if (this.count === this.max) {

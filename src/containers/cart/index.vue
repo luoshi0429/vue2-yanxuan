@@ -13,7 +13,7 @@
       <div v-if="cartCommodities.length === 0" class="cart-nothing">
         <div class="nothing-login">
           <div class="nothing-cart-img"></div>
-          <button class="login">登录</button>
+          <button class="login" v-on:click="handleLogin">登录</button>
         </div>
       </div>
       <div v-if="cartCommodities.length > 0" class="cart-commodity">
@@ -65,7 +65,12 @@
     },
     computed: {
       ...mapState({
-        cartCommodities: 'cartList',
+        // cartCommodities: 'cartList',
+        cartCommodities: state => {
+          console.log('--------')
+          console.log(state.cartList)
+          return state.cartList
+        },
         // removeCartList: 'removeCartList',
         removeCartList: state => {
           console.log('========')
@@ -145,6 +150,9 @@
       handleToFormat (commodity) {
         this.pushToCartFormat(commodity)
         this.$router.push('/cartFormat')
+      },
+      handleLogin () {
+        this.$router.push('/login')
       }
     }
   }
@@ -242,6 +250,7 @@
     color: #fff;
     margin-top: px2rem(15);
     border-radius: px2rem(3);
+    out-line: none;
   }
 </style>
 

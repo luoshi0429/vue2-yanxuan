@@ -9,7 +9,7 @@
           <span>已选择：{{ commodity.selectString }}</span><i />
         </div>
         <div class="cart-commodity-edit-number">
-          <p class="price">¥{{ commodity.price }}</p>
+          <p class="price">¥{{ commodity.price }} {{ commodity.count }}</p>
           <step class="step" v-bind:current="commodity.count" v-bind:handleChange="handleChangeCount"/>
         </div>
       </div>
@@ -45,10 +45,6 @@
       },
       isEdit: Boolean,
       removeCartList: Array,
-      handleSelect: {
-        type: Function,
-        default: () => {}
-      },
       handlePush: {
         type: Function,
         default: () => {}
@@ -64,6 +60,12 @@
       handleToFormat: {
         type: Function,
         default: () => {}
+      }
+    },
+    watch: {
+      commodity: function (val, oldVal) {
+        console.log('+++++++++')
+        console.log(val, oldVal)
       }
     },
     methods: {

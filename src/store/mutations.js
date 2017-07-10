@@ -84,13 +84,6 @@ export default {
       console.log('cart list: ', state.cartList)
       state.removeCartList = Object.assign([], state.cartList)
     }
-    // 全选 => 全不选。 一个或一个以上选择 => 全选
-    // const selectCount = state.removeCartList.length
-    // if (selectCount === state.cartList.length) {
-    //   state.removeCartList = []
-    // } else {
-    //   state.removeCartList = Object.assign([], state.cartList)
-    // }
   },
   [TYPES.REMOVECARTCOMMODITY] (state, commodities) {
     let cartCommodities = Object.assign([], state.cartList)
@@ -116,7 +109,9 @@ export default {
     const currentCartCommodity = state.currentCartCommodity
     const newCommodity = Object.assign({}, currentCartCommodity, changeData)
     const index = state.cartList.indexOf(currentCartCommodity)
+    const removeIndex = state.removeCartList.indexOf(currentCartCommodity)
     Vue.set(state.cartList, index, newCommodity)
+    removeIndex >= 0 && (Vue.set(state.removeCartList, index, newCommodity))
     state.currentCartCommodity = newCommodity
     saveShowCartCommodity(newCommodity)
   },
