@@ -24,20 +24,16 @@ npm install
 npm start
 ```
 
-## Screenshot
+## Screenshots
 
-![](/Users/liumin/Downloads/yanxuan-home.jpg)
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-home.jpg?raw=true)
 
-![](/Users/liumin/Downloads/yanxuan-manufacturer.jpg)
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-manufacturer.jpg?raw=true)
 
-![](/Users/liumin/Downloads/yanxuan-productdetail.jpg)
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-productdetail.jpg?raw=true)
 
-![](/Users/liumin/Downloads/yanxuan-topic.jpg)
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-topic.jpg?raw=true)
 
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-category.jpg?raw=true)
 
-
-
-
-![](/Users/liumin/Downloads/yanxuan-category.jpg)
-
-![](/Users/liumin/Downloads/yanxuan-cart.jpg)
+![](https://github.com/luoshi0429/vue2-yanxuan/blob/master/screenshots/yanxuan-cart.jpg?raw=true)
